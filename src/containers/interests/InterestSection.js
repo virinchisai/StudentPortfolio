@@ -3,12 +3,9 @@ import "./Interests.css";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { interests } from "../../portfolio";
 import { Fade } from "react-reveal";
-import DataScienceImg from "./DataScienceImg";
 import DesignImg from "./DesignImg";
 
 function GetInterestsvg(props) {
-  if (props.fileName === "DataScienceImg")
-    return <DataScienceImg theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 
