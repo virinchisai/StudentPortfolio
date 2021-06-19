@@ -21,6 +21,7 @@
     "fs": "^0.0.1-security",
     "gh-pages": "^2.2.0",
     "graphql": "^14.7.0",
+    "netlify-cli": "^3.37.37",
     "node-fetch": "^2.6.1",
     "node-sass": "^4.14.1",
     "prettier-package-json": "^2.6.0",

@@ -34,7 +34,7 @@ const socialMediaLinks = [
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
-    name: "LinkedIn",
+    name: "LinkedIn.",
     link: "https://www.linkedin.com/in/virinchi-sai-0a4a9a1b6/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
