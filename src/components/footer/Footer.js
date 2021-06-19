@@ -12,11 +12,11 @@ export default function Footer(props) {
           Built by{" "}
           {
             <a
-              href="https://nasigarijitesh.me/"
+              href=""
               hoverStyle={{ fontWeight: "bold" }}
               style={{ color: props.theme.text }}
             >
-              Nasigari Jitesh
+              Virinchi Sai
             </a>
           }
         </p>

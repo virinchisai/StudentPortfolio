@@ -1,9 +1,8 @@
-
 <h1 align="center"> Student Developer Portfolio 🔥 </h1> 
 <h3 align="center"> An Elegant, responsive and 100% customizable portfolio <br /> template for Student Developers! </h3>
 
 <p align="center"> 
-    <a href="https://nasigarijitesh.me/" target="_blank">
+    <a href="https://jitesh.me/" target="_blank">
     <img src="images/Studentportfolio.png"></img>
   </a>
 </p>
@@ -96,7 +95,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://nasigarijitesh.me/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](https://virinchisai.me/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo.
@@ -157,8 +156,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 # License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-
 
 # References 👏🏻
 
