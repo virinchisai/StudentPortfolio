@@ -55,7 +55,7 @@ const socialMediaLinks = [
     name: "Snapchat",
     link: "https://www.snapchat.com/add/ditch_bolt",
     fontAwesomeIcon: "fa-snapchat",
-    backgroundColor: "#ffff00",
+    backgroundColor: "#D1D100",
   },
 ];
 
