@@ -140,7 +140,7 @@ const skills = {
 
 const skill = {
   title: "Data Analytics, IoT & AI",
-  fileName: "Data Analytics",
+  fileName: "DataScienceImg",
   skills: [
     "⭐ Experience of working with Arduino",
     "⭐ Complex quantitative modelling for dynamic forecasting and time series analysis",
