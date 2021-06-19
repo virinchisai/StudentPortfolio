@@ -104,6 +104,30 @@ const skills = {
       ],
     },
     {
+      title: "Data Analytics, IoT & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⭐ Experience of working with Arduino",
+        "⭐ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
+          style: {
+            color: "##3776AB",
+          },
+        },
+        {
+          skillName: "Ardunio",
+          fontAwesomeClassname: "simple-icons:arduino",
+          style: {
+            color: "#00979D",
+          },
+        },
+      ],
+    },
+    {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
@@ -134,31 +158,6 @@ const skills = {
           },
         },
       ],
-    },
-  ],
-};
-
-const skill = {
-  title: "Data Analytics, IoT & AI",
-  fileName: "DataScienceImg",
-  skills: [
-    "⭐ Experience of working with Arduino",
-    "⭐ Complex quantitative modelling for dynamic forecasting and time series analysis",
-  ],
-  softwareSkills: [
-    {
-      skillName: "Python",
-      fontAwesomeClassname: "simple-icons:python",
-      style: {
-        color: "##3776AB",
-      },
-    },
-    {
-      skillName: "Ardunio",
-      fontAwesomeClassname: "simple-icons:arduino",
-      style: {
-        color: "#00979D",
-      },
     },
   ],
 };
