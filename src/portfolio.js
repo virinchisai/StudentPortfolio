@@ -267,6 +267,15 @@ const certifications = {
       color_code: "#1E90FF",
     },
     {
+      title: "Android Enterprise Associate",
+      subtitle: "- Android",
+      logo_path: "Android.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1TTIfMRTYUOKzAfevPYey9AN1LX_AaERV/view?usp=sharing",
+      alt_name: "Android",
+      color_code: "#000000",
+    },
+    {
       title: "Introduction to Cybersecurity",
       subtitle: "- CISCO Networking Academy",
       logo_path: "cisco_logo.png",
