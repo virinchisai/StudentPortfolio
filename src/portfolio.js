@@ -264,7 +264,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/H46VGDE6DKJG",
       alt_name: "Google Cloud",
-      color_code: "#1E90FF",
+      color_code: "#FFFFFF",
     },
     {
       title: "Android Enterprise Associate",
@@ -273,7 +273,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1TTIfMRTYUOKzAfevPYey9AN1LX_AaERV/view?usp=sharing",
       alt_name: "Android",
-      color_code: "#000000",
+      color_code: "#FFFFFF",
     },
     {
       title: "Introduction to Cybersecurity",
