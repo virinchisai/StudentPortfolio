@@ -9,16 +9,7 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-          Built by{" "}
-          {
-            <a
-              href=""
-              hoverStyle={{ fontWeight: "bold" }}
-              style={{ color: props.theme.text }}
-            >
-              Virinchi Sai
-            </a>
-          }
+          Built by <span style={{ color: props.theme.text }}>Virinchi Sai</span>
         </p>
       </Fade>
     </div>
